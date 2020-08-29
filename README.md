@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **bdcravens/bdcravens** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -15,11 +13,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-# Who Am I?
+### Who Am I?
 
 I'm Billy Cravens, a software developer in Houston. I've been building software on the web since 1999. 
 
-# My Skills
+### My Skills
 
 I've used pretty much everything, but here are the technologies I'm focused on:
 
@@ -29,15 +27,17 @@ I've used pretty much everything, but here are the technologies I'm focused on:
 - Docker
 - CFML
 
-# Hire Me?
+### Hire Me?
 
 **Freelance availability:** Now taking on work on a limited basis (20-25 hours per week)
 
-# Portfolio
+### Portfolio
 
 Most of my work is covered by NDA, so here's a collection of code I've worked on that give an overview
 
-# Contact Me
+(coming soon)
+
+### Contact Me
 
 Email: Github username AT gmail
 
