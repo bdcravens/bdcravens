@@ -25,6 +25,7 @@ I've used pretty much everything, but here are the technologies I'm focused on:
 - React
 - AWS
 - Docker
+- Puppeteer and Selenium
 - CFML
 
 ### Hire Me?
