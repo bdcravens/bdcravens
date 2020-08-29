@@ -37,4 +37,9 @@ I've used pretty much everything, but here are the technologies I'm focused on:
 
 Most of my work is covered by NDA, so here's a collection of code I've worked on that give an overview
 
+# Contact Me
+
+Email: Github username AT gmail
+
+Twitter: [@bdcravens](https://www.twitter.com/bdcravens)
 
